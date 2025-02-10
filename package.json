@@ -1,0 +1,28 @@
+{
+  "name": "webanalaytic",
+  "version": "1.0.0",
+  "description": "Get web analaytic for for yor website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanshsin0203/Webanalaytic.git"
+  },
+  "keywords": [
+    "Web",
+    "analaytic"
+  ],
+  "author": "Shivansh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanshsin0203/Webanalaytic/issues"
+  },
+  "homepage": "https://github.com/shivanshsin0203/Webanalaytic#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "ua-parser-js": "^2.0.1"
+  }
+}
