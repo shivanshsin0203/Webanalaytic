@@ -1,5 +1,5 @@
 {
-  "name": "webanalaytic",
+  "name": "web-analytics-tracker",
   "version": "1.0.0",
   "description": "Get web analaytic for for yor website",
   "main": "index.js",

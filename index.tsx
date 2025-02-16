@@ -33,7 +33,7 @@ const Analytics = ({ keyId }: AnalyticsProps) => {
           country: country,
           sessionIdPresent: sessionIdPresent
          }
-         const result= axios.post("http://127.0.0.1:8787/track", body);
+         const result= axios.post("https://analyticbackend.singhshivansh12may.workers.dev/track", body);
         console.log(result);
       } catch (error) {
         console.error("IP API failed, sending minimal data.");
