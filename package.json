@@ -1,7 +1,7 @@
 {
-  "name": "web-analytics-tracker",
-  "version": "1.0.0",
-  "description": "Get web analaytic for for yor website",
+  "name": "webanalytic-tracker",
+  "version": "1.0.1",  
+  "description": "Get web analytics for your website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   },
   "keywords": [
     "Web",
-    "analaytic"
+    "analytics",
+    "tracker"
   ],
   "author": "Shivansh Singh",
   "license": "ISC",
@@ -21,6 +22,10 @@
     "url": "https://github.com/shivanshsin0203/Webanalaytic/issues"
   },
   "homepage": "https://github.com/shivanshsin0203/Webanalaytic#readme",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "dependencies": {
     "axios": "^1.7.9",
     "ua-parser-js": "^2.0.1"
